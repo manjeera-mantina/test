@@ -7,7 +7,7 @@ function oddNumbto20() {
     }
 }
 function evenDividendto100() {
-    for(var i=1; i<=100; i++) {
+    for(var i=100; i>0; i--) {
         if((i%3 === 0)&&((i/3)%2 === 0))
         console.log(i);
         }
