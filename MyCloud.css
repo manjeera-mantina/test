@@ -1,0 +1,31 @@
+h1 {
+    background-color: black;
+    color: white;
+    font-family: cursive;
+    text-indent: 15px;
+}
+span {
+    color: cyan;
+}
+h2 {
+    background-color: rebeccapurple;
+    color: white;
+    font-family: monospace;
+    font-style: italic;
+    text-align: center;
+   /* text-size-adjust: large; */
+    font-weight: normal;
+    font-size: xx-large;
+}
+h3 {
+    background-color: rgb(143, 165, 238);
+    color: black;
+    font-family: cursive;
+    /*font-style: italic;*/
+    text-align: center;
+    text-indent: 1400px;
+   /* text-size-adjust: large; */
+   text-decoration: underline;
+    font-weight: normal;
+    font-size: large;
+}
